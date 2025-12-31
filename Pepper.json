@@ -3,7 +3,7 @@
   "wake_word": "Pepper",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "Pepper.tflite",
+  "model": "Pepper_float32.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 2,
   "micro": {
